@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.93"
+markdown = "1.0.0-alpha.21"
+serde = "1.0.214"
+serde_json = "1.0.132"
+tera = "1.20.0"
